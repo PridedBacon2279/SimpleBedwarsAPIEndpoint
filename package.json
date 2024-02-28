@@ -1,0 +1,9 @@
+{
+  "name": "SimpleBedwarsAPIEndpoint",
+  "version": "1.0.0",
+  "description": "A simple REST API Endpoint for the hypixel API with caching",
+  "main": "SimpleBedwarsAPIEndpoint.js",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
